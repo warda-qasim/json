@@ -1,45 +1,10 @@
 [
-   {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_8.jpg",
-       "collections":"category",
-       "dimensions":"1440 x 3200 px",
-       "copyright":"Personal Use, Credits Required",
-       "downloadable":"true"
-    },
 
    {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_7.jpg",
-       "collections":"category",
-       "dimensions":"1440 x 3200 px",
-       "copyright":"Personal Use, Credits Required",
-       "downloadable":"true"
-    },
-
-   {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_6.jpg",
-       "collections":"category",
-       "dimensions":"1440 x 3200 px",
-       "copyright":"Personal Use, Credits Required",
-       "downloadable":"true"
-    },
-
-  {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_5.jpg",
-       "collections":"category",
-       "dimensions":"1440 x 3200 px",
-       "copyright":"Personal Use, Credits Required",
-       "downloadable":"true"
-    },
-
-
-   {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.jpg",
-       "collections":"category",
+      
+      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
+      "thumbnail":"https://github.com/warda-qasim/Minimal-Thumb/raw/main/minimal_4.jpg",
+       "collections":"minimal,gradient",
        "dimensions":"1440 x 3200 px",
        "copyright":"Personal Use, Credits Required",
        "downloadable":"true"
@@ -47,29 +12,32 @@
   
  
     {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.jpg",
-       "collections":"category",
+      
+      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
+"thumbnail":"https://github.com/warda-qasim/Minimal-Thumb/raw/main/minimal_3.jpg",
+       "collections":"minimal,gradient",
        "dimensions":"1440 x 3200 px",
        "copyright":"Personal Use, Credits Required",
        "downloadable":"true"
     },
 
    {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.jpg",
-       "collections":"category",
+      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
+"thumbnail":"https://github.com/warda-qasim/Minimal-Thumb/raw/main/minimal_2.jpg",
+       "collections":"minimal,gradient",
        "dimensions":"1440 x 3200 px",
        "copyright":"Personal Use, Credits Required",
        "downloadable":"true"
     },
    {
-      "author":"Warda",
-      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.jpg",
-       "collections":"category",
+     
+      "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
+"thumbnail":"https://github.com/warda-qasim/Minimal-Thumb/raw/main/minimal_1.jpg",
+       "collections":"minimal,gradient",
        "dimensions":"1440 x 3200 px",
        "copyright":"Personal Use, Credits Required",
        "downloadable":"true"
     }
 ]
-  
+
+
