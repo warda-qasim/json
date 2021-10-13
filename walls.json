@@ -1,19 +1,23 @@
 [
    {  
        "name":"w1",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png"
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
+      "collections":"Landscape,City"
 },
 
 {
        "name":"w2",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png"
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
+     "collections":"Landscape,City"
 },
 {
         "name":"w3",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png"
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
+     "collections":"Landscape,City"
 },
 {
         "name":"w4",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png"
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
+     "collections":"Landscape,City"
 }
 ]
