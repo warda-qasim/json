@@ -1,23 +1,54 @@
 [
-   {  
-       "name":"w1",
+{  
+       
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_4.jpg",
+      "collections":"Islamic_Wallpapers"
+},
+{  
+       
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_3.jpg",
+      "collections":"Islamic_Wallpapers"
+},
+
+{  
+       
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_2.jpg",
+      "collections":"Islamic_Wallpapers"
+},
+
+{  
+       
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_1.jpg",
+      "collections":"Islamic_Wallpapers"
+},
+
+
+{  
+       
        "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
-      "collections":"Landscape,City"
+      "collections":"Islamic_Wallpapers"
+},
+
+
+   {  
+       
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
+      "collections":"Minimal"
 },
 
 {
-       "name":"w2",
+       
        "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
-     "collections":"Landscape,City"
+     "collections":"Minimal"
 },
 {
-        "name":"w3",
+        
        "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
-     "collections":"Landscape,City"
+     "collections":"Minimal"
 },
 {
-        "name":"w4",
+        
        "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
-     "collections":"Landscape,City"
+     "collections":"Minimal"
 }
 ]
