@@ -1,47 +1,119 @@
-[{
-		"name": "islam",
-		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_4.png",
-		"collections": "Islamic"
-	},
-	{
-		"name": "islam",
-		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_3.png",
-		"collections": "Islamic"
-	},
+[
 
-	{
-		"name": "islam",
-		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_2.png",
-		"collections": "Islamic"
-	},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_18.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_17.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_16.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_15.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_14.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_13.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_12.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_11.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_10.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_9.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_8.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_7.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_6.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_5.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_4.png",
+      "collections":"Islamic"
+},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_3.png",
+      "collections":"Islamic"
+},
 
-	{
-		"name": "islam",
-		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_1.png",
-		"collections": "Islamic"
-	},
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_2.png",
+     "collections":"Islamic"
+},
+
+{  
+       "name":"islam",
+       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_1.png",
+     "collections":"Islamic"
+},
 
 
-	{
-		"name": "walls4",
-		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
-		"collections": "Minimal"
-	},
+   {  
+          "name":"walls4",
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
+       "collections":"Minimal"
+},
 
-	{
-
-		"name": "walls3",
-		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
-		"collections": "Minimal"
-	},
-	{
-		"name": "walls2",
-		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
-		"collections": "Minimal"
-	},
-	{
-		"name": "walls1",
-		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
-		"collections": "Minimal"
-	}
+{
+        
+          "name":"walls3",
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
+        "collections":"Minimal"
+},
+{
+           "name":"walls2",
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
+     "collections":"Minimal"
+},
+{
+        "name":"walls1",
+       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
+       "collections":"Minimal"
+}
 ]
