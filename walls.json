@@ -1,48 +1,47 @@
-[
-{  
-       "name":"islam",
-       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_4.png"
-     
-},
-{  
-       "name":"islam",
-       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_3.png"
-      
-},
+[{
+		"name": "islam",
+		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_4.png",
+		"collections": "Islamic"
+	},
+	{
+		"name": "islam",
+		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_3.png",
+		"collections": "Islamic"
+	},
 
-{  
-       "name":"islam",
-       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_2.png"
-     
-},
+	{
+		"name": "islam",
+		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_2.png",
+		"collections": "Islamic"
+	},
 
-{  
-       "name":"islam",
-       "url":"https://github.com/warda-qasim/Islamic/raw/main/islamic_1.png"
-     
-},
+	{
+		"name": "islam",
+		"url": "https://github.com/warda-qasim/Islamic/raw/main/islamic_1.png",
+		"collections": "Islamic"
+	},
 
 
-   {  
-          "name":"walls4",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png"
-      
-},
+	{
+		"name": "walls4",
+		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_4.png",
+		"collections": "Minimal"
+	},
 
-{
-        
-          "name":"walls3",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png"
-    
-},
-{
-           "name":"walls2",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png"
-     
-},
-{
-        "name":"walls1",
-       "url":"https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png"
-    
-}
+	{
+
+		"name": "walls3",
+		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_3.png",
+		"collections": "Minimal"
+	},
+	{
+		"name": "walls2",
+		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_2.png",
+		"collections": "Minimal"
+	},
+	{
+		"name": "walls1",
+		"url": "https://github.com/warda-qasim/Minimal/raw/main/minimal_1.png",
+		"collections": "Minimal"
+	}
 ]
